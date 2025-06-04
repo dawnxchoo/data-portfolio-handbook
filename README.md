@@ -1,4 +1,4 @@
-# Dawn's Data Portfolio Project Handbook 🚧
+# Dawn's Data Portfolio Project Handbook
 
  ![Data Portfolio Banner](./images/portfolio-banner.png)
 
@@ -48,7 +48,7 @@ If you're starting to build your portfolio from scratch I recommend following th
 
 By the way, HI 👋 My name is Dawn Choo. I am a Data Scientist and a Data content creator. I write every day on LinkedIn and Instagram to 100k+ followers. I also have a newsletter (about Data careers) where I publish a new article every other Wednesday — sign up here at www.askdatadawn.com. Because I have written extensively about this topic across all of my platforms, you might find that I link to some of my posts & newsletters! My goal, however, is to make this repo as comprehensive as possible, so I include link from a wide range of resources.
 
-<img src="./images/dawn.png" alt="Dawn Choo - Data Scientist and Content Creator" width="300">
+<img src="./images/dawn.png" alt="Dawn Choo - Data Scientist and Content Creator" width="200">
 
 
 
