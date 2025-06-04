@@ -24,6 +24,13 @@ If you're starting to build your portfolio from scratch I recommend following th
 
 
 
+
+
+
+
+
+
+
 1. [Project planning & ideation](#project-planning--ideation)
    * [Where to find datasets](#where-to-find-datasets)
    * [Sample project ideas by role and skill level](#sample-project-ideas-by-role-and-skill-level-coming-soon)
@@ -103,10 +110,7 @@ A data "portfolio" typically contains multiple projects. Before we discuss creat
   * [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386) - Global development indicators
 
 
-## **Sample project ideas by role and skill level (coming soon!)**
-
-*Loading…*
-
+## **A list of project ideas by role and skill level**
 
 ### **Guided project resources -- start here if you're building your first project**
 
@@ -136,6 +140,105 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * [Design a database for a Pizzeria with Adam Finer](https://www.youtube.com/watch?v=0rB_memC-dA)
 * [Football data engineering with Yusuf Ganiyu](https://www.youtube.com/watch?v=tKIXUqz17W8)
 * [Trending YouTube videos with Darshil Parmar](https://www.youtube.com/watch?v=yZKJFKu49Dk&list=PLBJe2dFI4sgvQTNNkI3ETYJgNPR4CBpFd)
+
+
+### Datasets + project ideas
+
+
+**YouTube Content Strategy Optimization** \n *Dataset: [YouTube Performance + Comments Dataset](https://www.kaggle.com/datasets/advaypatil/youtube-statistics?select=videos-stats.csv&utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
+
+*More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
+
+
+**Beginner** \n Identify what makes videos successful by analyzing top-performing keywords, like-to-view ratios, and average sentiment. Use an engagement score (views + likes + comments) to rank videos.
+
+
+**Intermediate** \n Build a performance framework to evaluate content effectiveness over time. Use percentiles, cohort analysis, and sentiment-to-performance correlations to uncover patterns and inform future strategy.
+
+
+**Advanced**
+
+* **Engagement Quality Monitor**: Detect negative sentiment spirals and flag videos needing moderation.
+* **Community Health Scorer**: Create health scores by content category to prioritize response.
+* **Moderator Resource Optimizer**: Allocate response efforts using sentiment and controversy levels.
+
+
+**Mental Health Treatment Gap** \n *Dataset: [Global Burden of Mental Disorders](https://www.kaggle.com/datasets/imtkaggleteam/mental-health/?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
+
+*More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
+
+
+**Beginner** \n Report on mental health treatment gaps globally. Highlight untreated anxiety rates, regional depression prevalence, and country-level mental health burdens using descriptive analysis.
+
+
+**Intermediate** \n Track and predict treatment trends with window functions, cohort analysis, and a composite risk score to prioritize mental health intervention efforts.
+
+
+**Advanced**
+
+* **Real-Time Crisis Detection System**: Build a system that flags potential mental health emergencies early.
+* **Investment Optimization Platform**: Model expected impact of different interventions across populations.
+* **Equity Index Tool**: Quantify and address disparities in mental health access and outcomes.
+
+
+**Delivery Performance & Customer Satisfaction Analysis** \n *Dataset: [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
+
+*More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
+
+
+**Beginner** \n Explore how delivery performance affects customer reviews. Compare on-time delivery rates, review scores, and regional differences in performance and volume.
+
+
+**Intermediate** \n Build a delivery performance framework by analyzing seller rankings, customer retention by cohort, and root causes of operational delays. Include a "reliability score."
+
+
+**Advanced**
+
+* **Predictive Delivery Risk System**: Train an ML model to forecast late deliveries and simulate interventions.
+* **Dynamic Delivery Promise Engine**: Personalize delivery estimates with A/B testing for effectiveness.
+* **Seller Performance Platform**: Automate monitoring, diagnostics, and action recommendations for sellers.
+
+
+
+
+
+### More project ideas
+
+Here are more project ideas below to tickle your braincells, I have not looked for the accompanying datasets. But hey, searching for these datasets is part of the fun (and part of the process!)
+
+
+* Analyze performance of each stage of the sales funnel, including lead generation, conversion rates.
+* Group delivery routes for logistics companies to optimize fuel usage and delivery time.
+* Build a text-based RPG game where a transformer model dynamically generates game scenarios.
+* Segment retail customers based on purchase behavior to tailor marketing strategies.
+* Predict housing prices based on location, size, and other property features.
+* Design a schema for teams, players, match scores to allow for analytics and leaderboards.
+* Develop model to classify customer reviews as positive, negative, or neutral.
+* Optimize warehouse layouts to minimize order-picking times using data analysis.
+* Model the relationship between advertising spending and product sales.
+* Showcase historical and upcoming space missions by country, mission type & success rates.
+* Build a dashboard to track trends in hashtags and sentiment over time.
+* Classify whether a patient has a specific disease based on health metrics.
+* Create a model that applies the style of famous paintings to user-uploaded photos.
+* Analyze supply chain efficiency by identifying bottlenecks in transportation routes.
+* Analyze whether a new drug improves recovery times compared to a placebo in a clinical trial.
+* Evaluate which marketing strategies lead to a higher conversion rates.
+* Forecast daily energy consumption for a city based on historical usage data and weather patterns.
+* Predict customer churn in a subscription-based service using demographic and usage data.
+* Compare open rates for two different email subject lines to determine which is more effective.
+* Develop customer profiles based on travel preferences and spending history to target personalized promotions.
+* Segment users by workout habits, goals, and subscription tiers for better engagement strategies.
+* Analyze and forecast stock price movements for a specific company using historical market data.
+* Create a real-time visualization of player performance metrics and match outcomes for a sports league.
+* Design a relational database to manage products, customers, orders & payments.
+* Simplify a dataset of university characteristics to uncover the main factors contributing to university rankings.
+* Uncover the factors influencing dropout rates in online learning platforms.
+* Predict monthly revenue for an e-commerce platform using seasonal and promotional trends.
+* Simplify data from healthcare studies to identify dominant factors associated with diseases.
+* Report on ticket resolution times, customer satisfaction scores, and support request volume trends.
+* Create a visualization of startup funding trends by industry, region, and funding stage over time.
+
+
 
 
 ## Skills to showcase for each role
@@ -184,7 +287,6 @@ Of course, every product you build will require tools or platforms, like the act
 * **[Mode](https://mode.com/), [Hex](https://hex.tech/), [PopSQL](https://popsql.com/)** – Cloud SQL editors with free tiers options
 * **[BigQuery Console](https://console.cloud.google.com/bigquery)** – Google’s cloud SQL workspace
 
-  \
 
 My recommendation: Start with **DBeaver** + **SQLite** if you're new and working with a very small dataset (<1000 rows & <20 columns). Move to **DBeaver** (since it works with all flavors of SQL) when you’re ready to work with big & multiple datasets.
 
@@ -216,7 +318,7 @@ My recommendation: Use with **Excel** if you can afford to pay for it, if not, *
 * **[Tableau Public](https://public.tableau.com/)** – Free version of Tableau that lets you build interactive dashboards. But note: your dashboards must be public and functionality is limited
 * **[Tableau Desktop](https://www.tableau.com/products/desktop)** – Paid version ($$), lets you keep dashboards private and access more advanced features.
 * **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** – Free Microsoft tool for building dashboards (only for Windows users)
-* **[Looker Studio ](https://lookerstudio.google.com/)**(formerly Google Data Studio) – Free, browser-based, and integrates well with Sheets and BigQuery, but from my experience, very difficult yot use
+* **[Looker Studio](https://lookerstudio.google.com/)** (formerly Google Data Studio) – Free, browser-based, and integrates well with Sheets and BigQuery, but from my experience, very difficult yot use
 * **Plotly / Seaborn / Matplotlib**– Python libraries for data viz. \n *Best if you're already working in Python and want to visualize inside a notebook.*
 * **[Streamlit](https://streamlit.io/)** – Free, open-source Python framework that lets you turn scripts into interactive web apps. *This is fun to play with if you’re bulding public, production, web-apps based* dashboards.
 
