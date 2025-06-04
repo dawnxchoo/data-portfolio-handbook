@@ -1,4 +1,4 @@
-Dawn's Data Portfolio Project Handbook 🚧
+# Dawn's Data Portfolio Project Handbook 🚧
 
 Every resource & guidance you need to build your Data Science & Analytics portfolio
 
@@ -47,9 +47,6 @@ If you're starting to build your portfolio from scratch I recommend following th
 
 
 By the way, HI! My name is Dawn Choo. I am a Data Scientist and a Data content creator. I write every day on LinkedIn and Instagram to 100k+ followers. I also have a newsletter (about Data careers) where I publish a new article every other Wednesday — sign up here at www.askdatadawn.com. Because I have written extensively about this topic across all of my platforms, you might find that I link to some of my posts & newsletters! My goal, however, is to make this repo as comprehensive as possible, so I include link from a wide range of resources.
-
-
-<insert image>
 
 ## Project planning & ideation
 
@@ -166,9 +163,11 @@ The ultimate goal would be to build completely self-driven projects, that are in
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
-**Beginner** \n Identify what makes videos successful by analyzing top-performing keywords, like-to-view ratios, and average sentiment. Use an engagement score (views + likes + comments) to rank videos.
+**Beginner** 
+Identify what makes videos successful by analyzing top-performing keywords, like-to-view ratios, and average sentiment. Use an engagement score (views + likes + comments) to rank videos.
 
-**Intermediate** \n Build a performance framework to evaluate content effectiveness over time. Use percentiles, cohort analysis, and sentiment-to-performance correlations to uncover patterns and inform future strategy.
+**Intermediate** 
+Build a performance framework to evaluate content effectiveness over time. Use percentiles, cohort analysis, and sentiment-to-performance correlations to uncover patterns and inform future strategy.
 
 **Advanced**
 
@@ -184,9 +183,11 @@ The ultimate goal would be to build completely self-driven projects, that are in
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
-**Beginner** \n Report on mental health treatment gaps globally. Highlight untreated anxiety rates, regional depression prevalence, and country-level mental health burdens using descriptive analysis.
+**Beginner** 
+Report on mental health treatment gaps globally. Highlight untreated anxiety rates, regional depression prevalence, and country-level mental health burdens using descriptive analysis.
 
-**Intermediate** \n Track and predict treatment trends with window functions, cohort analysis, and a composite risk score to prioritize mental health intervention efforts.
+**Intermediate** 
+Track and predict treatment trends with window functions, cohort analysis, and a composite risk score to prioritize mental health intervention efforts.
 
 **Advanced**
 
@@ -202,9 +203,11 @@ The ultimate goal would be to build completely self-driven projects, that are in
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
-**Beginner** \n Explore how delivery performance affects customer reviews. Compare on-time delivery rates, review scores, and regional differences in performance and volume.
+**Beginner** 
+Explore how delivery performance affects customer reviews. Compare on-time delivery rates, review scores, and regional differences in performance and volume.
 
-**Intermediate** \n Build a delivery performance framework by analyzing seller rankings, customer retention by cohort, and root causes of operational delays. Include a "reliability score."
+**Intermediate** 
+Build a delivery performance framework by analyzing seller rankings, customer retention by cohort, and root causes of operational delays. Include a "reliability score."
 
 **Advanced**
 
@@ -214,12 +217,15 @@ The ultimate goal would be to build completely self-driven projects, that are in
 
 
 
-### **Fast Food Nutrition** \n *Dataset: [Fast Food Nutritional Facts](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+### **Fast Food Nutrition**
+*Dataset: [Fast Food Nutritional Facts](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** \n Analyze nutritional trends across popular fast food chains. Identify healthier vs. unhealthier options using basic statistics and visualizations.
+**Beginner** 
+Analyze nutritional trends across popular fast food chains. Identify healthier vs. unhealthier options using basic statistics and visualizations.
 
-**Intermediate** \n Explore nutrient relationships and build a dashboard to compare fast food items across chains based on user-defined goals.
+**Intermediate**
+Explore nutrient relationships and build a dashboard to compare fast food items across chains based on user-defined goals.
 
 **Advanced**
 
@@ -228,12 +234,15 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Interactive Explorer App**: Build a user-facing tool for personalized fast food comparisons.
 
 
-### **Airbnb Listings and Reviews** \n *Dataset: [Airbnb Listings + Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+### **Airbnb Listings and Reviews** 
+*Dataset: [Airbnb Listings + Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** \n Compare performance of superhosts vs. regular hosts. Analyze differences in ratings, prices, and booking frequency.
+**Beginner** 
+Compare performance of superhosts vs. regular hosts. Analyze differences in ratings, prices, and booking frequency.
 
-**Intermediate** \n Study geographic and amenity-based trends. Use clustering and mapping to explore pricing and satisfaction across locations.
+**Intermediate** 
+Study geographic and amenity-based trends. Use clustering and mapping to explore pricing and satisfaction across locations.
 
 **Advanced**
 
@@ -242,11 +251,14 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Amenity-Based Segmentation**: Cluster listings to find patterns in offerings and outcomes.
 
 
-### **Summer Olympics** \n *Dataset: [Olympic Athletes + Medals](https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+### **Summer Olympics**
+*Dataset: [Olympic Athletes + Medals](https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
-**Beginner** \n Visualize medal counts and performance trends by country and year. Explore how participation has evolved.
+**Beginner** 
+Visualize medal counts and performance trends by country and year. Explore how participation has evolved.
 
-**Intermediate** \n Analyze gender representation and dominant countries in specific sports over time. Build dashboards to highlight changes and patterns.
+**Intermediate** 
+Analyze gender representation and dominant countries in specific sports over time. Build dashboards to highlight changes and patterns.
 
 **Advanced**
 
@@ -255,12 +267,15 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Demographics Enrichment**: Merge Olympic data with external datasets to uncover deeper insights.
 
 
-### **Movies** \n *Dataset: [Movies Metadata & Ratings](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+### **Movies**
+*Dataset: [Movies Metadata & Ratings](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** \n Explore genre trends, production countries, and language shifts. Create time-based visualizations.
+**Beginner** 
+Explore genre trends, production countries, and language shifts. Create time-based visualizations.
 
-**Intermediate** \n Perform sentiment analysis on movie descriptions and study how they relate to audience ratings.
+**Intermediate** 
+Perform sentiment analysis on movie descriptions and study how they relate to audience ratings.
 
 **Advanced**
 
@@ -269,12 +284,15 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Genre Classifier**: Build a model to predict genre using descriptive features.
 
 
-### **Mental Health** \n *Dataset: [Global Mental Health Indicators](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+### **Mental Health**
+*Dataset: [Global Mental Health Indicators](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** \n Track global prevalence of mental disorders and visualize country-level changes over time.
+**Beginner**
+Track global prevalence of mental disorders and visualize country-level changes over time.
 
-**Intermediate** \n Analyze gender disparities and model mental health outcomes using socioeconomic variables.
+**Intermediate**
+Analyze gender disparities and model mental health outcomes using socioeconomic variables.
 
 **Advanced**
 
@@ -418,10 +436,7 @@ Finally, our last step is where to host your portfolio. There are so many great 
 I put together this [FREE Data Portfolio template](https://seasoned-jackrabbit-505.notion.site/Data-Portfolio-Template-1617bd8f260380e4b115c17f57796af5?source=copy_link) that you can use to get started!
 
 
-## Contact me
+## Contact me 
 
-* Follow me on [Instagram](https://link.mail.beehiiv.com/ss/c/u001.GHowZ6754sE-rR4yA3SwxBTa5PaDUpkJk5rWwYIg3aRp104A8-6mlbXMt9-T-37VxvhSn7Ze_cfaVl-CcnkikdlM5aWXX4tDrUYK0xwG1zGuzGrju8gPjEonTfmodBYNkVrdhQJu0RV9cUXwZK-TApmo3D2JW4viyZ8cF5RAZ9dfx7LpCyUic87Q-ErmckTav3yTavIfDM0OLohUrWGrBjx1XdnU-odLi6oxXCKBBWgEI4LldApmpTrvRQXz_at-do_jxiGEsjydCSo--NQporA44Nlybn67oDUYld2IrKKhKqMgvVQNKHA0FQKZ8OKkGznE3I5wT66Yhq3pbhQozg/4h2/ZZVSkBV2Tqa9hzeKzUC9hQ/h7/h001.c73GymG0jNI3zxHEZGNtTanUPuf7zgBALrQDN_LyRV0)… *I’m trying really hard to build out a presence on IG!*
-* Follow me on [LinkedIn](https://link.mail.beehiiv.com/ss/c/u001.GHowZ6754sE-rR4yA3SwxEf4duAcC1tGXmEcyDOGWR_z_mlmtMPcsiFbni_L1wYTWYXMfdcdHkLhTYeJ9KXr0rED4S2_-QdwV9FiHRSo9BaPUyc-djFv9Z3nT5Elp3Rxqpq01QU6v6YUN7aP5zfVUD7IJH81pR3FzMkGv77sDtTWKPsrhevlggYJfE_1gPWLWfA0usrl-8NlC-d46ERHtR7aDgJf1TDRYpYDZ-GjgKi-f_3RObbhpFSGvIEFXoluAs2pulX-PVHQ6TTSxio4Ds1nYHZQKrLi9UQgUHb11JjthUO1l-QD3YKIbypHZC3X/4h2/ZZVSkBV2Tqa9hzeKzUC9hQ/h8/h001.gZtUeF_QUEPIIbBMn7q9frIbbK9EzgmJqhN2blg2SaM)
-* Use [Interview Master](https://link.mail.beehiiv.com/ss/c/u001.GHowZ6754sE-rR4yA3SwxH556dtBkyhcPAXSxYTaJKmo7wF9ukGZVEkLWjIuiTzFZ9Sj_FOMXtpGXtohSjLVBXj12SaBmEhJ0pqv-j3otAmZg1sOUMHTv-KSUpHSpU_Ce_LKFXy7I5vPhUrBd8RVmNVic-IOMF2d_gOZB34geiHblQVZzgNQf0JR0SzSglaHPMGEEK-_mL-d4scKV-NintHTOggESnbMh4OnAJhwZ6VENSY0OqnSzFSNveobMaYQQqcSgWNOFJpPgBMwn9hwz9khJUJlqrlDa_WWuhbdRPdvp174_5PoleqgmwMrHziMDrn_wFIiu3ouuTPyuWZohGtohqbMqbhA1zCKAUK8itAxQ8EIav2ko6HlYuQRi5hw/4h2/ZZVSkBV2Tqa9hzeKzUC9hQ/h9/h001.w4ZIgGMPszP80gHTrEf9bhfgnyKP2ii4HD02E4Dlt2Q), my SQL practice & interview prep platform
-
- \n 
+* Follow me on [Instagram](www.instagram.com/askdatadawn)… *I’m trying really hard to build out a presence on IG!*
+* Follow me on [LinkedIn](www.linkedin.com/in/data-dawn)
