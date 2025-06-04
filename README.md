@@ -1,4 +1,4 @@
-# Dawn's Data Portfolio Project Handbook 🚧
+Dawn's Data Portfolio Project Handbook 🚧
 
 Every resource & guidance you need to build your Data Science & Analytics portfolio
 
@@ -14,31 +14,35 @@ You'll find a ton resources to guide you from the initial stages of ideation all
 
 If you're starting to build your portfolio from scratch I recommend following this guide step-by-step. But if you're here looking for specific resources or looking to up-level your data portfolio, feel free to jump to the relevant sections.
 
-## 📋 Table of Contents
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Table of Contents
 
 
 
 1. [Project planning & ideation](#project-planning--ideation)
    * [Where to find datasets](#where-to-find-datasets)
-   * [Sample project ideas by role and skill level](#sample-project-ideas-by-role-and-skill-level-coming-soon)
+     * [Static datasets](#static-datasets)
+     * [Data APIs](#data-apis)
+2. [A list of project ideas by role and skill level](#a-list-of-project-ideas-by-role-and-skill-level)
    * [Guided project resources](#guided-project-resources----start-here-if-youre-building-your-first-project)
-2. [Skills to showcase for each role](#skills-to-showcase-for-each-role)
-3. [Tools & tech stack](#tools--tech-stack)
-4. [Project documentation](#project-documentation)
-5. [Hosting your portfolio](#hosting-your-portfolio)
+   * [Datasets + project ideas](#datasets--project-ideas)
+     * [YouTube Content Strategy Optimization](#youtube-content-strategy-optimization)
+     * [Mental Health Treatment Gap](#mental-health-treatment-gap)
+     * [Delivery Performance & Customer Satisfaction Analysis](#delivery-performance--customer-satisfaction-analysis)
+     * [Fast Food Nutrition](#fast-food-nutrition)
+     * [Airbnb Listings and Reviews](#airbnb-listings-and-reviews)
+     * [Summer Olympics](#summer-olympics)
+     * [Movies](#movies)
+     * [Mental Health](#mental-health)
+     * [More project ideas](#more-project-ideas)
+3. [Skills to showcase for each role](#skills-to-showcase-for-each-role)
+4. [Tools & tech stack](#tools--tech-stack)
+   * [SQL](#sql)
+   * [Python](#python)
+   * [Excel](#excel)
+   * [Data visualization](#data-visualization)
+5. [Project documentation](#project-documentation)
+6. [Hosting your portfolio](#hosting-your-portfolio)
 
 
 
@@ -110,7 +114,17 @@ A data "portfolio" typically contains multiple projects. Before we discuss creat
   * [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386) - Global development indicators
 
 
-## **A list of project ideas by role and skill level**
+### How to come up with a project idea
+
+I wrote about this in [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7335319829869928452/).
+
+
+I also highly recomend writing [an analysis plan](https://www.linkedin.com/feed/update/urn:li:activity:7335319829869928452/) before you start any anlaysis. I find that writing an analysis plan forces me to break down my high level question in bite-sized steps. And it’s also helpful when I’m working through my analysis and going off on a tangent (my analysis usually focuses me back on what is important for this project)
+
+
+Not sure how to write an analysis plan? You can use my [analysis template](https://seasoned-jackrabbit-505.notion.site/Data-Analysis-Plan-Template-2017bd8f260380f6afdee63cac7d3f43?source=copy_link) to get started!
+
+## A list of project ideas by role and skill level
 
 ### **Guided project resources -- start here if you're building your first project**
 
@@ -142,19 +156,19 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * [Trending YouTube videos with Darshil Parmar](https://www.youtube.com/watch?v=yZKJFKu49Dk&list=PLBJe2dFI4sgvQTNNkI3ETYJgNPR4CBpFd)
 
 
-### Datasets + project ideas
+## Datasets + project ideas
 
 
-**YouTube Content Strategy Optimization** \n *Dataset: [YouTube Performance + Comments Dataset](https://www.kaggle.com/datasets/advaypatil/youtube-statistics?select=videos-stats.csv&utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
+### **YouTube Content Strategy Optimization**
+
+*Dataset: [YouTube Performance + Comments Dataset](https://www.kaggle.com/datasets/advaypatil/youtube-statistics?select=videos-stats.csv&utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
 
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
 **Beginner** \n Identify what makes videos successful by analyzing top-performing keywords, like-to-view ratios, and average sentiment. Use an engagement score (views + likes + comments) to rank videos.
 
-
 **Intermediate** \n Build a performance framework to evaluate content effectiveness over time. Use percentiles, cohort analysis, and sentiment-to-performance correlations to uncover patterns and inform future strategy.
-
 
 **Advanced**
 
@@ -163,16 +177,16 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Moderator Resource Optimizer**: Allocate response efforts using sentiment and controversy levels.
 
 
-**Mental Health Treatment Gap** \n *Dataset: [Global Burden of Mental Disorders](https://www.kaggle.com/datasets/imtkaggleteam/mental-health/?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
+### **Mental Health Treatment Gap**
+
+*Dataset: [Global Burden of Mental Disorders](https://www.kaggle.com/datasets/imtkaggleteam/mental-health/?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
 
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
 **Beginner** \n Report on mental health treatment gaps globally. Highlight untreated anxiety rates, regional depression prevalence, and country-level mental health burdens using descriptive analysis.
 
-
 **Intermediate** \n Track and predict treatment trends with window functions, cohort analysis, and a composite risk score to prioritize mental health intervention efforts.
-
 
 **Advanced**
 
@@ -181,16 +195,16 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Equity Index Tool**: Quantify and address disparities in mental health access and outcomes.
 
 
-**Delivery Performance & Customer Satisfaction Analysis** \n *Dataset: [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
+### **Delivery Performance & Customer Satisfaction Analysis**
+
+*Dataset: [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=3-detailed-data-portfolio-projects-ideas-datasets)*
 
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
 **Beginner** \n Explore how delivery performance affects customer reviews. Compare on-time delivery rates, review scores, and regional differences in performance and volume.
 
-
 **Intermediate** \n Build a delivery performance framework by analyzing seller rankings, customer retention by cohort, and root causes of operational delays. Include a "reliability score."
-
 
 **Advanced**
 
@@ -199,6 +213,74 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * **Seller Performance Platform**: Automate monitoring, diagnostics, and action recommendations for sellers.
 
 
+
+### **Fast Food Nutrition** \n *Dataset: [Fast Food Nutritional Facts](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+
+
+**Beginner** \n Analyze nutritional trends across popular fast food chains. Identify healthier vs. unhealthier options using basic statistics and visualizations.
+
+**Intermediate** \n Explore nutrient relationships and build a dashboard to compare fast food items across chains based on user-defined goals.
+
+**Advanced**
+
+* **Clustering Analysis**: Group menu items by nutritional profile to uncover patterns.
+* **Nutritional Recommendation Engine**: Suggest items based on goals like high protein or low sodium.
+* **Interactive Explorer App**: Build a user-facing tool for personalized fast food comparisons.
+
+
+### **Airbnb Listings and Reviews** \n *Dataset: [Airbnb Listings + Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+
+
+**Beginner** \n Compare performance of superhosts vs. regular hosts. Analyze differences in ratings, prices, and booking frequency.
+
+**Intermediate** \n Study geographic and amenity-based trends. Use clustering and mapping to explore pricing and satisfaction across locations.
+
+**Advanced**
+
+* **Price Optimization Model**: Predict optimal listing prices using machine learning.
+* **Listing Recommendation System**: Suggest listings based on user preferences and review scores.
+* **Amenity-Based Segmentation**: Cluster listings to find patterns in offerings and outcomes.
+
+
+### **Summer Olympics** \n *Dataset: [Olympic Athletes + Medals](https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+
+**Beginner** \n Visualize medal counts and performance trends by country and year. Explore how participation has evolved.
+
+**Intermediate** \n Analyze gender representation and dominant countries in specific sports over time. Build dashboards to highlight changes and patterns.
+
+**Advanced**
+
+* **Medal Count Predictor**: Use machine learning to forecast 2024 medal totals.
+* **Athlete Career Analysis**: Explore patterns in longevity and versatility.
+* **Demographics Enrichment**: Merge Olympic data with external datasets to uncover deeper insights.
+
+
+### **Movies** \n *Dataset: [Movies Metadata & Ratings](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+
+
+**Beginner** \n Explore genre trends, production countries, and language shifts. Create time-based visualizations.
+
+**Intermediate** \n Perform sentiment analysis on movie descriptions and study how they relate to audience ratings.
+
+**Advanced**
+
+* **Box Office Success Predictor**: Predict movie revenue based on metadata and features.
+* **Movie Recommender System**: Use collaborative filtering to suggest titles.
+* **Genre Classifier**: Build a model to predict genre using descriptive features.
+
+
+### **Mental Health** \n *Dataset: [Global Mental Health Indicators](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
+
+
+**Beginner** \n Track global prevalence of mental disorders and visualize country-level changes over time.
+
+**Intermediate** \n Analyze gender disparities and model mental health outcomes using socioeconomic variables.
+
+**Advanced**
+
+* **Prevalence Prediction Model**: Build and compare models for mental health forecasting.
+* **Mental Health Impact Analysis**: Correlate disorder rates with DALYs to quantify burden.
+* **Country Clustering**: Group nations by mental health profile using unsupervised learning.
 
 
 
@@ -276,7 +358,7 @@ So for Data Science & Data Analyst roles, here are the required skills:
 
 ## Tools & tech stack
 
-Of course, every product you build will require tools or platforms, like the actualy environment / program that you’ll use when building your projects. We'll cover in this section what tools (*most are free or at least have a free tier*) you can use for your projects depending on the skills you’re trying to showcase, plus I’ll also add my personal recommendation and why.
+Of course, every product you build will require tools or platforms, like the actualy environment / program that you'll use when building your projects. We'll cover in this section what tools (*most are free or at least have a free tier*) you can use for your projects depending on the skills you're trying to showcase, plus I'll also add my personal recommendation and why.
 
 
 **SQL**
@@ -285,27 +367,27 @@ Of course, every product you build will require tools or platforms, like the act
 * **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** – Official SQL IDE for MySQL
 * **[DB Browser for SQLite](https://sqlitebrowser.org/)** – Lightweight, no setup. Just open a file and start querying, but only good for small projects
 * **[Mode](https://mode.com/), [Hex](https://hex.tech/), [PopSQL](https://popsql.com/)** – Cloud SQL editors with free tiers options
-* **[BigQuery Console](https://console.cloud.google.com/bigquery)** – Google’s cloud SQL workspace
+* **[BigQuery Console](https://console.cloud.google.com/bigquery)** – Google's cloud SQL workspace
 
 
-My recommendation: Start with **DBeaver** + **SQLite** if you're new and working with a very small dataset (<1000 rows & <20 columns). Move to **DBeaver** (since it works with all flavors of SQL) when you’re ready to work with big & multiple datasets.
+My recommendation: Start with **DBeaver** + **SQLite** if you're new and working with a very small dataset (<1000 rows & <20 columns). Move to **DBeaver** (since it works with all flavors of SQL) when you're ready to work with big & multiple datasets.
 
 
 **Python**
 
 
 * **[Google Colab](https://colab.research.google.com/)** – Free, browser-based Jupyter notebooks with zero setup (also has Gemini AI integrated, which can be helpful)
-* **[JupyterLab](https://jupyter.org/install)** – Runs locally on your computer, so you don’t have to be connected to the internet
+* **[JupyterLab](https://jupyter.org/install)** – Runs locally on your computer, so you don't have to be connected to the internet
 * **[Cursor](https://www.cursor.so/)** – AI-powered code editor, ideal for scripting, not notebooks.. but can make it work for analyses too
 * **[JetBrains DataSpell](https://www.jetbrains.com/dataspell/)** – Professional IDE with smart completions and notebook support, but can be very $$$
 
 
-My recommendation: Use with **Google Colab**—it’s free, no setup, and beginner-friendly.
+My recommendation: Use with **Google Colab**—it's free, no setup, and beginner-friendly.
 
 
 **Excel**
 
-* **[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)** (duh!) – The standard desktop version, but this does cost money AND doesn’t work as well on Macbooks.
+* **[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)** (duh!) – The standard desktop version, but this does cost money AND doesn't work as well on Macbooks.
 * **[Excel for the Web](https://www.office.com/launch/excel)** – Free, browser-based Excel via Microsoft 365. But (be warned) this does not have all the functionality of the desktop version.
 * **[Google Sheets](https://sheets.google.com/)** – Free and cloud-based with real-time collaboration. Mimics Excel very closely, but does not have all the functionality.
 
@@ -320,25 +402,26 @@ My recommendation: Use with **Excel** if you can afford to pay for it, if not, *
 * **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** – Free Microsoft tool for building dashboards (only for Windows users)
 * **[Looker Studio](https://lookerstudio.google.com/)** (formerly Google Data Studio) – Free, browser-based, and integrates well with Sheets and BigQuery, but from my experience, very difficult yot use
 * **Plotly / Seaborn / Matplotlib**– Python libraries for data viz. \n *Best if you're already working in Python and want to visualize inside a notebook.*
-* **[Streamlit](https://streamlit.io/)** – Free, open-source Python framework that lets you turn scripts into interactive web apps. *This is fun to play with if you’re bulding public, production, web-apps based* dashboards.
-
-
-## Project documentation
-
-Great analysis means nothing if no one can understand your work. This section covers everything from writing comprehensive analysis plans to structuring your documentation for maximum clarity (and maximum hire-ability 😉).
-
-* How to write an analysis plan (with template)
-* How to structure project documentation
-* How to show your thought process using issues or notebooks
+* **[Streamlit](https://streamlit.io/)** – Free, open-source Python framework that lets you turn scripts into interactive web apps. *This is fun to play with if you're bulding public, production, web-apps based* dashboards.
 
 
 ## Hosting your portfolio
 
 Finally, our last step is where to host your portfolio. There are so many great options out there, so how do you pick. *Spoiler alert — I have a favorite and it's Notion (because it's free and easy-to-customize).* We'll also cover some common mistakes people make when building their portfolio and how to best present your projects in interviews.
 
-* Where to host your data portfolio (GitHub, personal site, Notion, etc.)
-* How many projects do you need for a strong Data portfolio
-* Common mistakes in a Data portfolio and how to avoid them
-* Tips for presenting your project in interviews
+* [Notion](https://www.notion.so) – *my top recommendation.* It’s easy to use and looks good. You can include text, charts, images, links, even embed code if needed.
+* [DataSciencePortfol.io](https://www.datascienceportfol.io) – Really easy to get your portfolio up and running in minutes. But there aren’t many options for customization or personal branding
+* [Google Slides](https://slides.google.com)– Super intuitive, especially if you’re already comfortable with Docs or Slides. But you’re stuck working in a slide-by-slide format, which can feel limiting.
+* [Carrd](https://carrd.co) – I like that they have strater templates templates that make your portfolio look clean and modern with very little effort.
 
 
+I put together this [FREE Data Portfolio template](https://seasoned-jackrabbit-505.notion.site/Data-Portfolio-Template-1617bd8f260380e4b115c17f57796af5?source=copy_link) that you can use to get started!
+
+
+## Contact me
+
+* Follow me on [Instagram](https://link.mail.beehiiv.com/ss/c/u001.GHowZ6754sE-rR4yA3SwxBTa5PaDUpkJk5rWwYIg3aRp104A8-6mlbXMt9-T-37VxvhSn7Ze_cfaVl-CcnkikdlM5aWXX4tDrUYK0xwG1zGuzGrju8gPjEonTfmodBYNkVrdhQJu0RV9cUXwZK-TApmo3D2JW4viyZ8cF5RAZ9dfx7LpCyUic87Q-ErmckTav3yTavIfDM0OLohUrWGrBjx1XdnU-odLi6oxXCKBBWgEI4LldApmpTrvRQXz_at-do_jxiGEsjydCSo--NQporA44Nlybn67oDUYld2IrKKhKqMgvVQNKHA0FQKZ8OKkGznE3I5wT66Yhq3pbhQozg/4h2/ZZVSkBV2Tqa9hzeKzUC9hQ/h7/h001.c73GymG0jNI3zxHEZGNtTanUPuf7zgBALrQDN_LyRV0)… *I’m trying really hard to build out a presence on IG!*
+* Follow me on [LinkedIn](https://link.mail.beehiiv.com/ss/c/u001.GHowZ6754sE-rR4yA3SwxEf4duAcC1tGXmEcyDOGWR_z_mlmtMPcsiFbni_L1wYTWYXMfdcdHkLhTYeJ9KXr0rED4S2_-QdwV9FiHRSo9BaPUyc-djFv9Z3nT5Elp3Rxqpq01QU6v6YUN7aP5zfVUD7IJH81pR3FzMkGv77sDtTWKPsrhevlggYJfE_1gPWLWfA0usrl-8NlC-d46ERHtR7aDgJf1TDRYpYDZ-GjgKi-f_3RObbhpFSGvIEFXoluAs2pulX-PVHQ6TTSxio4Ds1nYHZQKrLi9UQgUHb11JjthUO1l-QD3YKIbypHZC3X/4h2/ZZVSkBV2Tqa9hzeKzUC9hQ/h8/h001.gZtUeF_QUEPIIbBMn7q9frIbbK9EzgmJqhN2blg2SaM)
+* Use [Interview Master](https://link.mail.beehiiv.com/ss/c/u001.GHowZ6754sE-rR4yA3SwxH556dtBkyhcPAXSxYTaJKmo7wF9ukGZVEkLWjIuiTzFZ9Sj_FOMXtpGXtohSjLVBXj12SaBmEhJ0pqv-j3otAmZg1sOUMHTv-KSUpHSpU_Ce_LKFXy7I5vPhUrBd8RVmNVic-IOMF2d_gOZB34geiHblQVZzgNQf0JR0SzSglaHPMGEEK-_mL-d4scKV-NintHTOggESnbMh4OnAJhwZ6VENSY0OqnSzFSNveobMaYQQqcSgWNOFJpPgBMwn9hwz9khJUJlqrlDa_WWuhbdRPdvp174_5PoleqgmwMrHziMDrn_wFIiu3ouuTPyuWZohGtohqbMqbhA1zCKAUK8itAxQ8EIav2ko6HlYuQRi5hw/4h2/ZZVSkBV2Tqa9hzeKzUC9hQ/h9/h001.w4ZIgGMPszP80gHTrEf9bhfgnyKP2ii4HD02E4Dlt2Q), my SQL practice & interview prep platform
+
+ \n 
