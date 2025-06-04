@@ -1,5 +1,9 @@
 # Dawn's Data Portfolio Project Handbook 🚧
 
+ ![Data Portfolio Banner](./images/portfolio-banner.png)
+
+
+
 Every resource & guidance you need to build your Data Science & Analytics portfolio
 
 
@@ -41,7 +45,10 @@ If you're starting to build your portfolio from scratch I recommend following th
 5. [Project documentation](#project-documentation)
 6. [Hosting your portfolio](#hosting-your-portfolio)
 
+
 By the way, HI 👋 My name is Dawn Choo. I am a Data Scientist and a Data content creator. I write every day on LinkedIn and Instagram to 100k+ followers. I also have a newsletter (about Data careers) where I publish a new article every other Wednesday — sign up here at www.askdatadawn.com. Because I have written extensively about this topic across all of my platforms, you might find that I link to some of my posts & newsletters! My goal, however, is to make this repo as comprehensive as possible, so I include link from a wide range of resources.
+
+<img src="./images/dawn.png" alt="Dawn Choo - Data Scientist and Content Creator" width="300">
 
 
 
@@ -113,7 +120,7 @@ A data "portfolio" typically contains multiple projects. Before we discuss creat
 I wrote about this in [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7335319829869928452/).
 
 
-I also highly recomend writing [an analysis plan](https://www.linkedin.com/feed/update/urn:li:activity:7335319829869928452/) before you start any anlaysis. I find that writing an analysis plan forces me to break down my high level question in bite-sized steps. And it’s also helpful when I’m working through my analysis and going off on a tangent (my analysis usually focuses me back on what is important for this project)
+I also highly recomend writing [an analysis plan](https://www.linkedin.com/feed/update/urn:li:activity:7335319829869928452/) before you start any anlaysis. I find that writing an analysis plan forces me to break down my high level question in bite-sized steps. And it's also helpful when I'm working through my analysis and going off on a tangent (my analysis usually focuses me back on what is important for this project)
 
 
 Not sure how to write an analysis plan? You can use my [analysis template](https://seasoned-jackrabbit-505.notion.site/Data-Analysis-Plan-Template-2017bd8f260380f6afdee63cac7d3f43?source=copy_link) to get started!
@@ -160,10 +167,10 @@ The ultimate goal would be to build completely self-driven projects, that are in
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
-**Beginner** 
+**Beginner**
 Identify what makes videos successful by analyzing top-performing keywords, like-to-view ratios, and average sentiment. Use an engagement score (views + likes + comments) to rank videos.
 
-**Intermediate** 
+**Intermediate**
 Build a performance framework to evaluate content effectiveness over time. Use percentiles, cohort analysis, and sentiment-to-performance correlations to uncover patterns and inform future strategy.
 
 **Advanced**
@@ -180,10 +187,10 @@ Build a performance framework to evaluate content effectiveness over time. Use p
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
-**Beginner** 
+**Beginner**
 Report on mental health treatment gaps globally. Highlight untreated anxiety rates, regional depression prevalence, and country-level mental health burdens using descriptive analysis.
 
-**Intermediate** 
+**Intermediate**
 Track and predict treatment trends with window functions, cohort analysis, and a composite risk score to prioritize mental health intervention efforts.
 
 **Advanced**
@@ -200,10 +207,10 @@ Track and predict treatment trends with window functions, cohort analysis, and a
 *More details on these project ideas [here](https://www.askdatadawn.com/p/3-detailed-data-portfolio-projects-ideas-datasets)*
 
 
-**Beginner** 
+**Beginner**
 Explore how delivery performance affects customer reviews. Compare on-time delivery rates, review scores, and regional differences in performance and volume.
 
-**Intermediate** 
+**Intermediate**
 Build a delivery performance framework by analyzing seller rankings, customer retention by cohort, and root causes of operational delays. Include a "reliability score."
 
 **Advanced**
@@ -215,10 +222,11 @@ Build a delivery performance framework by analyzing seller rankings, customer re
 
 
 ### **Fast Food Nutrition**
+
 *Dataset: [Fast Food Nutritional Facts](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** 
+**Beginner**
 Analyze nutritional trends across popular fast food chains. Identify healthier vs. unhealthier options using basic statistics and visualizations.
 
 **Intermediate**
@@ -231,14 +239,15 @@ Explore nutrient relationships and build a dashboard to compare fast food items 
 * **Interactive Explorer App**: Build a user-facing tool for personalized fast food comparisons.
 
 
-### **Airbnb Listings and Reviews** 
+### **Airbnb Listings and Reviews**
+
 *Dataset: [Airbnb Listings + Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** 
+**Beginner**
 Compare performance of superhosts vs. regular hosts. Analyze differences in ratings, prices, and booking frequency.
 
-**Intermediate** 
+**Intermediate**
 Study geographic and amenity-based trends. Use clustering and mapping to explore pricing and satisfaction across locations.
 
 **Advanced**
@@ -249,12 +258,13 @@ Study geographic and amenity-based trends. Use clustering and mapping to explore
 
 
 ### **Summer Olympics**
+
 *Dataset: [Olympic Athletes + Medals](https://www.kaggle.com/datasets/divyansh22/summer-olympics-medals?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
-**Beginner** 
+**Beginner**
 Visualize medal counts and performance trends by country and year. Explore how participation has evolved.
 
-**Intermediate** 
+**Intermediate**
 Analyze gender representation and dominant countries in specific sports over time. Build dashboards to highlight changes and patterns.
 
 **Advanced**
@@ -265,13 +275,14 @@ Analyze gender representation and dominant countries in specific sports over tim
 
 
 ### **Movies**
+
 *Dataset: [Movies Metadata & Ratings](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
-**Beginner** 
+**Beginner**
 Explore genre trends, production countries, and language shifts. Create time-based visualizations.
 
-**Intermediate** 
+**Intermediate**
 Perform sentiment analysis on movie descriptions and study how they relate to audience ratings.
 
 **Advanced**
@@ -282,6 +293,7 @@ Perform sentiment analysis on movie descriptions and study how they relate to au
 
 
 ### **Mental Health**
+
 *Dataset: [Global Mental Health Indicators](https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset/data?utm_source=www.askdatadawn.com&utm_medium=referral&utm_campaign=25-not-boring-data-portfolio-project-ideas)*
 
 
@@ -424,16 +436,18 @@ My recommendation: Use with **Excel** if you can afford to pay for it, if not, *
 
 Finally, our last step is where to host your portfolio. There are so many great options out there, so how do you pick. *Spoiler alert — I have a favorite and it's Notion (because it's free and easy-to-customize).* We'll also cover some common mistakes people make when building their portfolio and how to best present your projects in interviews.
 
-* [Notion](https://www.notion.so) – *my top recommendation.* It’s easy to use and looks good. You can include text, charts, images, links, even embed code if needed.
-* [DataSciencePortfol.io](https://www.datascienceportfol.io) – Really easy to get your portfolio up and running in minutes. But there aren’t many options for customization or personal branding
-* [Google Slides](https://slides.google.com)– Super intuitive, especially if you’re already comfortable with Docs or Slides. But you’re stuck working in a slide-by-slide format, which can feel limiting.
+* [Notion](https://www.notion.so) – *my top recommendation.* It's easy to use and looks good. You can include text, charts, images, links, even embed code if needed.
+* [DataSciencePortfol.io](https://www.datascienceportfol.io) – Really easy to get your portfolio up and running in minutes. But there aren't many options for customization or personal branding
+* [Google Slides](https://slides.google.com)– Super intuitive, especially if you're already comfortable with Docs or Slides. But you're stuck working in a slide-by-slide format, which can feel limiting.
 * [Carrd](https://carrd.co) – I like that they have strater templates templates that make your portfolio look clean and modern with very little effort.
 
 
 I put together this [FREE Data Portfolio template](https://seasoned-jackrabbit-505.notion.site/Data-Portfolio-Template-1617bd8f260380e4b115c17f57796af5?source=copy_link) that you can use to get started!
 
 
-## Contact me 
+## Contact me
 
-* Follow me on [Instagram](www.instagram.com/askdatadawn)… *I’m trying really hard to build out a presence on IG!*
-* Follow me on [LinkedIn](www.linkedin.com/in/data-dawn)
+* Follow me on [Instagram](www.instagram.com/askdatadawn)… *I'm trying really hard to build out a presence on IG!*
+* Follow me on [LinkedIn](www.linkedin.com/in/data-dawn)
+
+
