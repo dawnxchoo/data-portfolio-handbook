@@ -1,24 +1,44 @@
 # Dawn's Data Portfolio Project Handbook 🚧
 
-*WIP -- if you've somehow stumbled upon this repo, I am still building and working on it!*
-
-
 Every resource & guidance you need to build your Data Science & Analytics portfolio
 
 
-If you're interested in building a Data Science & Analytics portfolio or already working on one, this repo is for you! You'll find a ton resources to guide you from the initial stages of ideation all the way through to creating a polished, professional portfolio. This portfolio is what you can showcase to hiring managers, discuss in interviews, and highlight on your resume, so that you can ultimately land your dream Data Science or Data Analyst job!
+*WIP -- if you've somehow stumbled upon this repo, I am still building and working on it!*
+
+
+Are you building a Data Science & Analytics portfolio or already working on one, this repo is for you!
+
+
+You'll find a ton resources to guide you from the initial stages of ideation all the way through to creating a polished, professional portfolio. This portfolio is what you can showcase to hiring managers, discuss in interviews, and highlight on your resume, so that you can ultimately land your dream Data Science or Data Analyst job!
+
 
 If you're starting to build your portfolio from scratch I recommend following this guide step-by-step. But if you're here looking for specific resources or looking to up-level your data portfolio, feel free to jump to the relevant sections.
 
+## 📋 Table of Contents
 
-<add table of contents>
+
+
+
+
+
+
+
+
+1. [Project planning & ideation](#project-planning--ideation)
+   * [Where to find datasets](#where-to-find-datasets)
+   * [Sample project ideas by role and skill level](#sample-project-ideas-by-role-and-skill-level-coming-soon)
+   * [Guided project resources](#guided-project-resources----start-here-if-youre-building-your-first-project)
+2. [Skills to showcase for each role](#skills-to-showcase-for-each-role)
+3. [Tools & tech stack](#tools--tech-stack)
+4. [Project documentation](#project-documentation)
+5. [Hosting your portfolio](#hosting-your-portfolio)
+
 
 
 By the way, HI! My name is Dawn Choo. I am a Data Scientist and a Data content creator. I write every day on LinkedIn and Instagram to 100k+ followers. I also have a newsletter (about Data careers) where I publish a new article every other Wednesday — sign up here at www.askdatadawn.com. Because I have written extensively about this topic across all of my platforms, you might find that I link to some of my posts & newsletters! My goal, however, is to make this repo as comprehensive as possible, so I include link from a wide range of resources.
 
 
-<add picture of myself>
-
+<insert image>
 
 ## Project planning & ideation
 
@@ -83,12 +103,12 @@ A data "portfolio" typically contains multiple projects. Before we discuss creat
   * [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386) - Global development indicators
 
 
-### **Sample project ideas by role and skill level (coming soon!)**
+## **Sample project ideas by role and skill level (coming soon!)**
 
 *Loading…*
 
 
-### **Guided project resources -- start here if you’re building your first project**
+### **Guided project resources -- start here if you're building your first project**
 
 The ultimate goal would be to build completely self-driven projects, that are in your target industry. But if this is your first Data portfolio project, it could be helpful (read: less intimidating) to start with one of these guided projects!
 
@@ -118,24 +138,90 @@ The ultimate goal would be to build completely self-driven projects, that are in
 * [Trending YouTube videos with Darshil Parmar](https://www.youtube.com/watch?v=yZKJFKu49Dk&list=PLBJe2dFI4sgvQTNNkI3ETYJgNPR4CBpFd)
 
 
-### Role-based portfolio skills
-
-Every data role has unique expectations and required competencies. Whether you're targeting a Data Scientist or Data Analyst position, your portfolio needs to demonstrate role-specific skills that hiring managers are looking for. For this repo, we are only focused on Data Sience & Analytics roles, so we will not be covering other roles like Data Engineering or AI Engineering.
-
-* What skills to showcase for each target role (DS, DA, DE, etc.)
-* What makes a project impressive to hiring managers
-* \
+## Skills to showcase for each role
 
 
-### Tools & tech stack
-
-Of course, every product you build will require tools. We'll cover in this section what tools (free & paid) you can use for your project.
-
-* Choosing the right tools: SQL, Python, R, Excel, Tableau, etc.
-* How to add interactivity: dashboards, Streamlit apps, and more
+Every data role has it's own expectations and required skillset. Whether you're applying to Data Scientist or Data Analyst position, your portfolio needs to showcase skills that __hiring managers are looking for__. For this repo, we are only focused on Data Sience & Analytics roles, so we will not be covering other roles like Data Engineering or AI Engineering.
 
 
-### Project documentation
+So for Data Science & Data Analyst roles, here are the required skills:
+
+
+**Product Data Science**
+
+* **Exploratory Data Analysis** - e.g. customer churn analysis, user behavior segmentation
+* **A/B Experimentation** - e.g. feature launch impact test, email header experiment
+* **Machine Learning** - e.g. recommendation engine, customer lifetime value prediction
+* **Causal Inference** - e.g. marketing campaign attribution, feature adoption drivers
+
+
+**Machine Learning Data Science**
+
+* **Machine Learning**  - e.g. fraud detection system, image classification model
+* **Data Preprocessing Project** - e.g. text data pipeline, missing data imputation framework
+* **Model Evaluation & Tuning** - e.g. hyperparameter optimization study, cross-validation comparison
+* **Big Data Technologies** - e.g. spark ML pipeline, distributed training implementation
+
+
+**Data Analyst**
+
+* **SQL** - e.g. complex joins dashboard, window functions for cohort analysis
+* **Advanced Excel** - e.g. financial modeling tool, interactive pivot table dashboard
+* **Data Visualization** - e.g. sales performance dashboard, customer journey visualization
+* **Metric Definition & Reporting** - e.g. KPI framework design, automated reporting system
+
+
+## Tools & tech stack
+
+Of course, every product you build will require tools or platforms, like the actualy environment / program that you’ll use when building your projects. We'll cover in this section what tools (*most are free or at least have a free tier*) you can use for your projects depending on the skills you’re trying to showcase, plus I’ll also add my personal recommendation and why.
+
+
+**SQL**
+
+* **[DBeaver](https://dbeaver.io/)** – Free, all-in-one SQL client. Works with Postgres, MySQL, SQLite, and more
+* **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** – Official SQL IDE for MySQL
+* **[DB Browser for SQLite](https://sqlitebrowser.org/)** – Lightweight, no setup. Just open a file and start querying, but only good for small projects
+* **[Mode](https://mode.com/), [Hex](https://hex.tech/), [PopSQL](https://popsql.com/)** – Cloud SQL editors with free tiers options
+* **[BigQuery Console](https://console.cloud.google.com/bigquery)** – Google’s cloud SQL workspace
+
+  \
+
+My recommendation: Start with **DBeaver** + **SQLite** if you're new and working with a very small dataset (<1000 rows & <20 columns). Move to **DBeaver** (since it works with all flavors of SQL) when you’re ready to work with big & multiple datasets.
+
+
+**Python**
+
+
+* **[Google Colab](https://colab.research.google.com/)** – Free, browser-based Jupyter notebooks with zero setup (also has Gemini AI integrated, which can be helpful)
+* **[JupyterLab](https://jupyter.org/install)** – Runs locally on your computer, so you don’t have to be connected to the internet
+* **[Cursor](https://www.cursor.so/)** – AI-powered code editor, ideal for scripting, not notebooks.. but can make it work for analyses too
+* **[JetBrains DataSpell](https://www.jetbrains.com/dataspell/)** – Professional IDE with smart completions and notebook support, but can be very $$$
+
+
+My recommendation: Use with **Google Colab**—it’s free, no setup, and beginner-friendly.
+
+
+**Excel**
+
+* **[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)** (duh!) – The standard desktop version, but this does cost money AND doesn’t work as well on Macbooks.
+* **[Excel for the Web](https://www.office.com/launch/excel)** – Free, browser-based Excel via Microsoft 365. But (be warned) this does not have all the functionality of the desktop version.
+* **[Google Sheets](https://sheets.google.com/)** – Free and cloud-based with real-time collaboration. Mimics Excel very closely, but does not have all the functionality.
+
+
+My recommendation: Use with **Excel** if you can afford to pay for it, if not, **Google Sheets** works great too.
+
+
+**Data visualization**
+
+* **[Tableau Public](https://public.tableau.com/)** – Free version of Tableau that lets you build interactive dashboards. But note: your dashboards must be public and functionality is limited
+* **[Tableau Desktop](https://www.tableau.com/products/desktop)** – Paid version ($$), lets you keep dashboards private and access more advanced features.
+* **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** – Free Microsoft tool for building dashboards (only for Windows users)
+* **[Looker Studio ](https://lookerstudio.google.com/)**(formerly Google Data Studio) – Free, browser-based, and integrates well with Sheets and BigQuery, but from my experience, very difficult yot use
+* **Plotly / Seaborn / Matplotlib**– Python libraries for data viz. \n *Best if you're already working in Python and want to visualize inside a notebook.*
+* **[Streamlit](https://streamlit.io/)** – Free, open-source Python framework that lets you turn scripts into interactive web apps. *This is fun to play with if you’re bulding public, production, web-apps based* dashboards.
+
+
+## Project documentation
 
 Great analysis means nothing if no one can understand your work. This section covers everything from writing comprehensive analysis plans to structuring your documentation for maximum clarity (and maximum hire-ability 😉).
 
@@ -144,7 +230,7 @@ Great analysis means nothing if no one can understand your work. This section co
 * How to show your thought process using issues or notebooks
 
 
-### Hosting your portfolio
+## Hosting your portfolio
 
 Finally, our last step is where to host your portfolio. There are so many great options out there, so how do you pick. *Spoiler alert — I have a favorite and it's Notion (because it's free and easy-to-customize).* We'll also cover some common mistakes people make when building their portfolio and how to best present your projects in interviews.
 
