@@ -1,7 +1,5 @@
 # Dawn's Data Portfolio Project Handbook
 
- ![Data Portfolio Banner](./images/portfolio-banner.png)
-
 
 
 Every resource & guidance you need to build your Data Science & Analytics portfolio
@@ -15,6 +13,7 @@ You'll find a ton resources to guide you from the initial stages of ideation all
 
 If you're starting to build your portfolio from scratch I recommend following this guide step-by-step. But if you're here looking for specific resources or looking to up-level your data portfolio, feel free to jump to the relevant sections.
 
+ ![Data Portfolio Banner](./images/portfolio-banner.png)
 
 ## Table of Contents
 
