@@ -42,8 +42,7 @@ If you're starting to build your portfolio from scratch I recommend following th
    * [Python](#python)
    * [Excel](#excel)
    * [Data visualization](#data-visualization)
-5. [Project documentation](#project-documentation)
-6. [Hosting your portfolio](#hosting-your-portfolio)
+5. [Hosting your portfolio](#hosting-your-portfolio)
 
 
 
