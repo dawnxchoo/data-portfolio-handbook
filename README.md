@@ -446,8 +446,8 @@ I put together this [FREE Data Portfolio template](https://seasoned-jackrabbit-5
 
 ## Contact me
 
-* Follow me on [Instagram](www.instagram.com/askdatadawn)… *I'm trying really hard to build out a presence on IG!*
-* Follow me on [LinkedIn](www.linkedin.com/in/data-dawn)
-* Check out my SQL Interview Preparation platform [Interview Master](www.interviewmaster.ai)
+* Follow me on [Instagram](https://www.instagram.com/askdatadawn)… *I'm trying really hard to build out a presence on IG!*
+* Follow me on [LinkedIn](https://www.linkedin.com/in/data-dawn)
+* Check out my SQL Interview Preparation platform [Interview Master](https://www.interviewmaster.ai)
 
 
