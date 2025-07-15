@@ -443,6 +443,10 @@ Finally, our last step is where to host your portfolio. There are so many great 
 
 I put together this [FREE Data Portfolio template](https://seasoned-jackrabbit-505.notion.site/Data-Portfolio-Template-1617bd8f260380e4b115c17f57796af5?source=copy_link) that you can use to get started!
 
+## Guided portfolio programs
+
+Looking for hands-on mentorship while building your portfolio? Check out [Real World Analyst](https://realworldanalyst.com/dawn) for step-by-step, personalized guidance!
+
 
 ## Contact me
 
