@@ -436,7 +436,7 @@ My recommendation: Use with **Excel** if you can afford to pay for it, if not, *
 Finally, our last step is where to host your portfolio. There are so many great options out there, so how do you pick. *Spoiler alert — I have a favorite and it's Notion (because it's free and easy-to-customize).* We'll also cover some common mistakes people make when building their portfolio and how to best present your projects in interviews.
 
 * [Notion](https://www.notion.so) – *my top recommendation.* It's easy to use and looks good. You can include text, charts, images, links, even embed code if needed.
-* [DataSciencePortfol.io](https://www.datascienceportfol.io) – Really easy to get your portfolio up and running in minutes. But there aren't many options for customization or personal branding
+* [DataSciencePortfol.io](https://www.datascienceportfol.io) – Really easy to get your portfolio up and running in minutes. Use code DAWN20 for 20% of a PRO subscription!
 * [Google Slides](https://slides.google.com)– Super intuitive, especially if you're already comfortable with Docs or Slides. But you're stuck working in a slide-by-slide format, which can feel limiting.
 * [Carrd](https://carrd.co) – I like that they have strater templates templates that make your portfolio look clean and modern with very little effort.
 
